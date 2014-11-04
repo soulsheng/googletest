@@ -7,3 +7,5 @@ xcuserdata
 /msvc/gtest
 /msvc/*.opensdf
 /msvc/*.sdf
+/msvc/samples
+/msvc/*.suo
